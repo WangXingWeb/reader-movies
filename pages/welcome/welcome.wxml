@@ -1,0 +1,9 @@
+
+
+<view class="container">
+    <image class="user_image" src="/images/xingzai.png"></image>
+    <text class="user_name">hello,星仔</text>
+    <view class="moto_container" bindtap="onTap">
+        <text class="moto">开启小程序之旅</text>
+    </view>
+</view> 
